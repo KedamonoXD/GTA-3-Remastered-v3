@@ -1,4 +1,4 @@
-# GTA 3 Remastered v3
+# GTA III Remastered v3
 
 Essentials: https://www.mixmods.com.br/2020/12/iii-essentials-pack/
 
