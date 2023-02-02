@@ -24,6 +24,8 @@ Parabrisas rompibles: https://www.mixmods.com.br/2022/06/iii-breakable-windshiel
 
 Neumáticos reventables: https://gtaforums.com/topic/901608-breakable-windshields/
 
+Destroyable Airtrain: https://www.gtagarage.com/mods/show.php?id=26526
+
 ParticleEx: https://www.mixmods.com.br/2021/10/iii-vc-particleex-sistema-de-efeitos-melhorado/
 
 SkyGfx: https://www.mixmods.com.br/2020/02/iii-vc-skygfx-3-0b/
