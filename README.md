@@ -40,6 +40,8 @@ LCS Snowfall: https://gtaforums.com/topic/942893-lcs-psp-snowfall-port-r2/
 
 Project2DFX: https://www.mixmods.com.br/2016/09/iii-project2dfx-4-4/
 
+GPS Line Mod: https://www.mixmods.com.br/2022/02/iii-vc-sa-gps-line-mod-radar-minimap/
+
 Mapa en el menú: https://www.mixmods.com.br/2022/04/iii-vc-menu-map-radar/
 
 Interfaz HD+10th Aniversary Icons: https://www.mediafire.com/file/lcz8o222v57fzvk/%2528III%2529Interfaz_HD.rar/file
